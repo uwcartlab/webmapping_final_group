@@ -11,7 +11,7 @@
 2. Requirements Document
     1. Representation
     2. Interaction
-        * Search
+        * Sequence
 3. Wireframes
     1. ![Home Wireframe](/img/wireframe.png)
 
