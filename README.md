@@ -4,7 +4,7 @@
 
 ### Final Proposal
 1. Persona/Scenario
-    1. Persona
+    1. Haoming Chen
     2. Scenario
 2. Requirements Document
 
