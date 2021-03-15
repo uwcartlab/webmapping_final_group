@@ -1,10 +1,11 @@
 # Team Name
 
 ### Team Members
+1. Haoming Chen
 
 ### Final Proposal
 1. Persona/Scenario
-    1. Haoming Chen
+    1. 
     2. Scenario
 2. Requirements Document
 
