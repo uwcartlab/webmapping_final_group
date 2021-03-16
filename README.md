@@ -2,6 +2,7 @@
 
 ### Team Members
 1. Haoming Chen
+2. Steven Domiter
 
 ### Final Proposal
 1. Persona/Scenario
