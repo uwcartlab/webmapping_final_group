@@ -58,7 +58,7 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 **Wireframes:**
 
 
-
+Our wireframes can be found in this [file](https://geog573spring2021.s3.amazonaws.com/575Map.pdf).
 
 
 
