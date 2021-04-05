@@ -1,11 +1,11 @@
-# Team Name
+# Chicago informative map
 
 ### Team Members
 1. Haoming Chen
 2. Steven Domiter
 
 ### Final Proposal
-**Persona/Scenario**
+**Persona/Scenario:**
 
 Persona - 
 
@@ -25,9 +25,9 @@ Scenario #2:
 
 
 
-**Requirements Document**
+**Requirements Document:**
 
-**Wireframes**
+**Wireframes:**
 
 
 
