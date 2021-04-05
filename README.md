@@ -32,7 +32,7 @@ Representations -
 | :---        |    :----:   |          ---: |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
-|Interaction -            |
+|Interaction -|||||
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
 
