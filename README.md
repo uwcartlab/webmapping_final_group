@@ -36,8 +36,9 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 | 3 | Points of Interest | Resteraunts, tourist attractions, hotels; all can be manually entered using online information, ratings and pictures can be added using online data | 
 | 4 | Ethnicity | Ethnicity composition using census data, expressed with pie chart by neighborhood |
 | 5 | Age | Age information using census data, pie chart |
-| 6 | Poverty | Area poverty data using census data and other sources, chloropleth |
+| 6 | Poverty/household income | Area poverty/income data using census data and other sources, chloropleth |
 | 7 | Schools | Locations of Chicago schools, entered manually, additional information can be addded to get a more wholistic review of the school |
+| 8 | Neighborhood rankings | Provide community oppinions about differnt neighborhoods from a variety of sources: https://www.niche.com/places-to-live/search/best-neighborhoods/m/chicago-metro-area/ https://www.homesnacks.com/best-neighborhoods-in-chicago-il/ |
 
 **Interaction**
 
