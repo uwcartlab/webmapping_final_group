@@ -17,6 +17,14 @@ Though Mike is excited about Chicago his wife has a few other places she would l
 
 Scenario -
 
+Scenario #1:
+
+When Mike arrives at the website, he sees a map centered on Chicago with a control panel to the left. Areas of Chicago are separated by neighborhood, so he **pans** and **zooms** around the area exploring different areas and clicking to **identify** neighborhood names. He uses the **search** feature to find a few neighborhoods he has already **identified** in research. He looks to the left panel and sees optional demographic data that can **reexpress** the main map. There is an optional **overlay** that allows him to select the time when data was collected. Tables are visible at the bottom of the screen as a simpler way to **compare** and **identify** **outlier** neighborhoods. The map and tables can be **filtered** to directly compare target neighborhoods. In the end his **goal** of **identifying** the best neighborhoods to live in should be accomplished.   
+
+Scenario #2: 
+
+
+
 **Requirements Document**
 
 **Wireframes**
