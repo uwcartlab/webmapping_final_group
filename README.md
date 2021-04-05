@@ -39,7 +39,7 @@ Representation
 | Index      | Abbreviation title| Description     |
 | :---        |    :----:   |          :--- |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
-| 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
+| 2   | Neighborhood ethnicity         | Sequence: Objects. Rank by the proportion of ethnicity within a neighborhood      |
 | 3      | Layer toggle       |  Overlay: Objects. Turn on/off the different layers, including layers for tourist attracting, school, and crime. |
 | 4   |Tourist attraction Hover        | Retrieve: Objects. Hover over a year on the timeline to get average delay values for each airline      |
 | 5     | Crime hover       | Retrieve: Objects: Hover over a crime to retrieve the short description of that crime, occur time, and types of crime |
