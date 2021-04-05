@@ -19,11 +19,11 @@ Scenario -
 
 Scenario #1:
 
-When Mike arrives at the website, he sees a map centered on Chicago with a control panel to the left. Areas of Chicago are separated by neighborhood, so he **pans** and **zooms** around the area exploring different areas and clicking to **identify** neighborhood names. He uses the **search** feature to find a few neighborhoods he has already **identified** in research. He looks to the left panel and sees optional demographic data that can **reexpress** the main map. There is an optional **overlay** that allows him to select the time when data was collected. Tables are visible at the bottom of the screen as a simpler way to **compare** and **identify** **outlier** neighborhoods. The map and tables can be **filtered** to directly compare target neighborhoods. In the end his **goal** of **identifying** the best neighborhoods to live in should be accomplished.   
+When Mike arrives at the website, he sees a map centered on Chicago with a control panel to the left. Areas of Chicago are separated by neighborhood, so he **pans** and **zooms** around the area exploring different areas and clicking to **identify** neighborhood names. He uses the **search** feature to find a few neighborhoods he has already **identified** in research. He looks to the left panel and sees optional demographic data that can **reexpress** the main map. The vibrant colors of the different neighborhoods focus his attention on different areas. There is an optional **overlay** that allows him to select the time when data was collected. Tables are visible at the bottom of the screen as a simpler way to **compare** and **identify** **outlier** neighborhoods. The map and tables can be **filtered** to directly compare target neighborhoods. In the end his **goal** of **identifying** the best neighborhoods to live in should be accomplished.   
 
 Scenario #2: 
 
-
+When Mike arrives at the website he is again greeted with the large map of Chicago and all the different neighborhoods. He immediately looks to the control panel on the left side and uses the **overlay** to **retrieve** different tourist options such as restaurants, points of interest and hotels. The places **resymbolize** the map and large **clusters** are easy to view. By clicking on the place symbols, they can be **identified** and more information appears. He **pans** and **zooms** around the map of Chicago and **identifies** locations in neighborhoods that he is interested in. In the end he accomplishes his **goal** and plans a tour of Chicago for his family. 
 
 **Requirements Document:**
 
