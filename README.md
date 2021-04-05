@@ -45,13 +45,14 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 | Index      | Abbreviation title| Description     |
 | :---        |    :----:   |          :--- |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
-| 2   | Neighborhood ethnicity         | Sequence: Objects. Rank by the proportion of ethnicity within a neighborhood      |
-| 3      | Layer toggle       |  Overlay: Objects. Turn on/off the different layers, including layers for tourist attracting, school, and crime. |
-| 4   |Tourist attraction Hover        | Retrieve: Objects. Hover over a year on the timeline to get average delay values for each airline      |
-| 5     | Crime hover       | Retrieve: Objects: Hover over a crime to retrieve the short description of that crime, occur time, and types of crime |
-| 6   | Attributes brush        | Sequence: Objects. Select one or multiple bar and the corresponding region will be highlighted      |
-| 7     | Search Neighborhood     | Search: Objects. Type in a neighborhood name in the search box and the corresponding neighborhood will be highlighted|
-| 8   | Arrange Neighborhood       | Arrange: Objects. User can view the location on the map and view the ranking by neighborhood in the bar chart below    |
+| 2      | Filter neighborhood       |  Filter: Locations. highlight a neighborhood. Zoom + Pan: Objects. Adjust the selected neighborhood to the center of map  |
+| 3   | Attributes brush        | Filter: Objects. Neighborhoods within the brush will be highlighted on the map      |
+| 4   | Neighborhood ethnicity         | Sequence: Objects. Rank by the proportion of ethnicity within a neighborhood      |
+| 5      | Layer toggle       |  Overlay: Objects. Turn on/off the different layers, including layers for tourist attracting, school, and crime. |
+| 6   |Tourist attraction Hover        | Retrieve: Objects. Hover over a year on the timeline to get average delay values for each airline      |
+| 7     | Crime hover       | Retrieve: Objects: Hover over a crime to retrieve the short description of that crime, occur time, and types of crime |
+| 8     | Search Neighborhood     | Search: Objects. Type in a neighborhood name in the search box and the corresponding neighborhood will be highlighted|
+| 9   | Arrange Neighborhood       | Arrange: Objects. User can view the location on the map and view the ranking by neighborhood in the bar chart below    |
 
 
 **Wireframes:**
