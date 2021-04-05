@@ -31,7 +31,10 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 | :----------|    :----:   |          ---: |
 | 1      | Basemap | The outline of Chicago (boundary: natural earth, should show different neighborhoods within the city of Chicago.|
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
-|Interaction|||||
+
+
+| Index      | Abbreviation title| Description     |
+| :---        |    :----:   |          ---: |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
 
