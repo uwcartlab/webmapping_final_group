@@ -34,13 +34,13 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 
 
 | Index      | Abbreviation title| Description     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----:   |          :--- |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
 | 3      | Layer toggle       |  Overlay: Objects. Turn on/off the different layers, including layers for tourist attracting, school, and crime. |
 | 4   |Tourist attraction Hover        | Retrieve: Objects. Hover over a year on the timeline to get average delay values for each airline      |
 | 5     | Crime hover       | Retrieve: Objects: Hover over a crime to retrieve the short description of that crime, occur time, and types of crime |
-| 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
+| 6   | Attributes brush        | Sequence: Objects. Select one or multiple bar and the corresponding region will be highlighted      |
 
 **Wireframes:**
 
