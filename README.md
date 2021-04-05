@@ -26,7 +26,12 @@ Scenario #2:
 When Mike arrives at the website he is again greeted with the large map of Chicago and all the different neighborhoods. He immediately looks to the control panel on the left side and uses the **overlay** to **retrieve** different tourist options such as restaurants, points of interest and hotels. The places **resymbolize** the map and large **clusters** are easy to view. By clicking on the place symbols, they can be **identified** and more information appears. He **pans** and **zooms** around the map of Chicago and **identifies** locations in neighborhoods that he is interested in. In the end he accomplishes his **goal** and plans a tour of Chicago for his family. 
 
 **Requirements Document:**
-
+Representations - 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
+| 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
+Interaction - 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | 1      | Query Panel       |  Filter: Time. Adjust the occur time for a crime (e.g. month, day of week, hour)  |
