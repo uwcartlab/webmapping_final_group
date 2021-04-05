@@ -34,7 +34,7 @@ Representation
 | 1      | Basemap | The outline of Chicago (boundary: natural earth, should show different neighborhoods within the city of Chicago.|
 | 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
 
-Interaction
+**Interaction**
 
 | Index      | Abbreviation title| Description     |
 | :---        |    :----:   |          :--- |
@@ -44,6 +44,9 @@ Interaction
 | 4   |Tourist attraction Hover        | Retrieve: Objects. Hover over a year on the timeline to get average delay values for each airline      |
 | 5     | Crime hover       | Retrieve: Objects: Hover over a crime to retrieve the short description of that crime, occur time, and types of crime |
 | 6   | Attributes brush        | Sequence: Objects. Select one or multiple bar and the corresponding region will be highlighted      |
+| 7     | Search Neighborhood     | Search: Objects. Type in a neighborhood name in the search box and the corresponding neighborhood will be highlighted|
+| 8   | Arrange Neighborhood       | Arrange: Objects. User can view the location on the map and view the ranking by neighborhood in the bar chart below    |
+
 
 **Wireframes:**
 
