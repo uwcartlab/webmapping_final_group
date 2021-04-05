@@ -27,12 +27,17 @@ When Mike arrives at the website he is again greeted with the large map of Chica
 
 **Requirements Document:**
 
-Representation
+**Representation**
 
 | Index      | Abbreviation title| Description     |
 | :---        |    :----:   |          :--- |
-| 1      | Basemap | The outline of Chicago (boundary: natural earth, should show different neighborhoods within the city of Chicago.|
-| 2   | Crime results Panel        | Sequence: Objects. Rank by the number of crime incidents within a neighborhold      |
+| 1 | Basemap | The outline of Chicago (boundary): natural earth, should show different neighborhoods within the city of Chicago.|
+| 2 | Crime | Locations and type of crime that occured in Chicago, use heatmap to express: _https://raw.githubusercontent.com/RandomFractals/ChicagoCrimes/master/data/2018/Crimes_-_2018.csv_|
+| 3 | Points of Interest | Resteraunts, tourist attractions, hotels; all can be manually entered using online information, ratings and pictures can be added using online data | 
+| 4 | Ethnicity | Ethnicity composition using census data, expressed with pie chart by neighborhood |
+| 5 | Age | Age information using census data, pie chart |
+| 6 | Poverty | Area poverty data using census data and other sources, chloropleth |
+| 7 | Schools | Locations of Chicago schools, entered manually, additional information can be addded to get a more wholistic review of the school |
 
 **Interaction**
 
