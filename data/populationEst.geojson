@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.902298, 32.318231]
+      },
+      "properties": {
+        "NAME": "Alabama",
+        "POPESTIMATE2010": 4785437,
+        "POPESTIMATE2011": 4799069,
+        "POPESTIMATE2012": 4815588,
+        "POPESTIMATE2013": 4830081,
+        "POPESTIMATE2014": 4841799,
+        "POPESTIMATE2015": 4852347,
+        "POPESTIMATE2016": 4863525,
+        "POPESTIMATE2017": 4874486,
+        "POPESTIMATE2018": 4887681,
+        "POPESTIMATE2019": 4903185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-154.493062, 63.588753]
+      },
+      "properties": {
+        "NAME": "Alaska",
+        "POPESTIMATE2010": 713910,
+        "POPESTIMATE2011": 722128,
+        "POPESTIMATE2012": 730443,
+        "POPESTIMATE2013": 737068,
+        "POPESTIMATE2014": 736283,
+        "POPESTIMATE2015": 737498,
+        "POPESTIMATE2016": 741456,
+        "POPESTIMATE2017": 739700,
+        "POPESTIMATE2018": 735139,
+        "POPESTIMATE2019": 731545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.093731, 34.048928]
+      },
+      "properties": {
+        "NAME": "Arizona",
+        "POPESTIMATE2010": 6407172,
+        "POPESTIMATE2011": 6472643,
+        "POPESTIMATE2012": 6554978,
+        "POPESTIMATE2013": 6632764,
+        "POPESTIMATE2014": 6730413,
+        "POPESTIMATE2015": 6829676,
+        "POPESTIMATE2016": 6941072,
+        "POPESTIMATE2017": 7044008,
+        "POPESTIMATE2018": 7158024,
+        "POPESTIMATE2019": 7278717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.831833, 35.20105]
+      },
+      "properties": {
+        "NAME": "Arkansas",
+        "POPESTIMATE2010": 2921964,
+        "POPESTIMATE2011": 2940667,
+        "POPESTIMATE2012": 2952164,
+        "POPESTIMATE2013": 2959400,
+        "POPESTIMATE2014": 2967392,
+        "POPESTIMATE2015": 2978048,
+        "POPESTIMATE2016": 2989918,
+        "POPESTIMATE2017": 3001345,
+        "POPESTIMATE2018": 3009733,
+        "POPESTIMATE2019": 3017804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.417932, 36.778261]
+      },
+      "properties": {
+        "NAME": "California",
+        "POPESTIMATE2010": 37319502,
+        "POPESTIMATE2011": 37638369,
+        "POPESTIMATE2012": 37948800,
+        "POPESTIMATE2013": 38260787,
+        "POPESTIMATE2014": 38596972,
+        "POPESTIMATE2015": 38918045,
+        "POPESTIMATE2016": 39167117,
+        "POPESTIMATE2017": 39358497,
+        "POPESTIMATE2018": 39461588,
+        "POPESTIMATE2019": 39512223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.782067, 39.550051]
+      },
+      "properties": {
+        "NAME": "Colorado",
+        "POPESTIMATE2010": 5047349,
+        "POPESTIMATE2011": 5121108,
+        "POPESTIMATE2012": 5192647,
+        "POPESTIMATE2013": 5269035,
+        "POPESTIMATE2014": 5350101,
+        "POPESTIMATE2015": 5450623,
+        "POPESTIMATE2016": 5539215,
+        "POPESTIMATE2017": 5611885,
+        "POPESTIMATE2018": 5691287,
+        "POPESTIMATE2019": 5758736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.087749, 41.603221]
+      },
+      "properties": {
+        "NAME": "Connecticut",
+        "POPESTIMATE2010": 3579114,
+        "POPESTIMATE2011": 3588283,
+        "POPESTIMATE2012": 3594547,
+        "POPESTIMATE2013": 3594841,
+        "POPESTIMATE2014": 3594524,
+        "POPESTIMATE2015": 3587122,
+        "POPESTIMATE2016": 3578141,
+        "POPESTIMATE2017": 3573297,
+        "POPESTIMATE2018": 3571520,
+        "POPESTIMATE2019": 3565287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.52767, 38.910832]
+      },
+      "properties": {
+        "NAME": "Delaware",
+        "POPESTIMATE2010": 899593,
+        "POPESTIMATE2011": 907381,
+        "POPESTIMATE2012": 915179,
+        "POPESTIMATE2013": 923576,
+        "POPESTIMATE2014": 932487,
+        "POPESTIMATE2015": 941252,
+        "POPESTIMATE2016": 948921,
+        "POPESTIMATE2017": 956823,
+        "POPESTIMATE2018": 965479,
+        "POPESTIMATE2019": 973764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.033418, 38.905985]
+      },
+      "properties": {
+        "NAME": "District of Columbia",
+        "POPESTIMATE2010": 605226,
+        "POPESTIMATE2011": 619800,
+        "POPESTIMATE2012": 634924,
+        "POPESTIMATE2013": 650581,
+        "POPESTIMATE2014": 662328,
+        "POPESTIMATE2015": 675400,
+        "POPESTIMATE2016": 685815,
+        "POPESTIMATE2017": 694906,
+        "POPESTIMATE2018": 701547,
+        "POPESTIMATE2019": 705749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.515754, 27.664827]
+      },
+      "properties": {
+        "NAME": "Florida",
+        "POPESTIMATE2010": 18845537,
+        "POPESTIMATE2011": 19053237,
+        "POPESTIMATE2012": 19297822,
+        "POPESTIMATE2013": 19545621,
+        "POPESTIMATE2014": 19845911,
+        "POPESTIMATE2015": 20209042,
+        "POPESTIMATE2016": 20613477,
+        "POPESTIMATE2017": 20963613,
+        "POPESTIMATE2018": 21244317,
+        "POPESTIMATE2019": 21477737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.907123, 32.157435]
+      },
+      "properties": {
+        "NAME": "Georgia",
+        "POPESTIMATE2010": 9711881,
+        "POPESTIMATE2011": 9802431,
+        "POPESTIMATE2012": 9901430,
+        "POPESTIMATE2013": 9972479,
+        "POPESTIMATE2014": 10067278,
+        "POPESTIMATE2015": 10178447,
+        "POPESTIMATE2016": 10301890,
+        "POPESTIMATE2017": 10410330,
+        "POPESTIMATE2018": 10511131,
+        "POPESTIMATE2019": 10617423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.665857, 19.898682]
+      },
+      "properties": {
+        "NAME": "Hawaii",
+        "POPESTIMATE2010": 1363963,
+        "POPESTIMATE2011": 1379329,
+        "POPESTIMATE2012": 1394804,
+        "POPESTIMATE2013": 1408243,
+        "POPESTIMATE2014": 1414538,
+        "POPESTIMATE2015": 1422052,
+        "POPESTIMATE2016": 1427559,
+        "POPESTIMATE2017": 1424393,
+        "POPESTIMATE2018": 1420593,
+        "POPESTIMATE2019": 1415872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.742041, 44.068202]
+      },
+      "properties": {
+        "NAME": "Idaho",
+        "POPESTIMATE2010": 1570746,
+        "POPESTIMATE2011": 1583910,
+        "POPESTIMATE2012": 1595324,
+        "POPESTIMATE2013": 1611206,
+        "POPESTIMATE2014": 1631112,
+        "POPESTIMATE2015": 1651059,
+        "POPESTIMATE2016": 1682380,
+        "POPESTIMATE2017": 1717715,
+        "POPESTIMATE2018": 1750536,
+        "POPESTIMATE2019": 1787065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.398528, 40.633125]
+      },
+      "properties": {
+        "NAME": "Illinois",
+        "POPESTIMATE2010": 12840503,
+        "POPESTIMATE2011": 12867454,
+        "POPESTIMATE2012": 12882510,
+        "POPESTIMATE2013": 12895129,
+        "POPESTIMATE2014": 12884493,
+        "POPESTIMATE2015": 12858913,
+        "POPESTIMATE2016": 12820527,
+        "POPESTIMATE2017": 12778828,
+        "POPESTIMATE2018": 12723071,
+        "POPESTIMATE2019": 12671821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.602364, 40.551217]
+      },
+      "properties": {
+        "NAME": "Indiana",
+        "POPESTIMATE2010": 6490432,
+        "POPESTIMATE2011": 6516528,
+        "POPESTIMATE2012": 6537703,
+        "POPESTIMATE2013": 6568713,
+        "POPESTIMATE2014": 6593644,
+        "POPESTIMATE2015": 6608422,
+        "POPESTIMATE2016": 6634304,
+        "POPESTIMATE2017": 6658078,
+        "POPESTIMATE2018": 6695497,
+        "POPESTIMATE2019": 6732219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.097702, 41.878003]
+      },
+      "properties": {
+        "NAME": "Iowa",
+        "POPESTIMATE2010": 3050745,
+        "POPESTIMATE2011": 3066336,
+        "POPESTIMATE2012": 3076190,
+        "POPESTIMATE2013": 3092997,
+        "POPESTIMATE2014": 3109350,
+        "POPESTIMATE2015": 3120960,
+        "POPESTIMATE2016": 3131371,
+        "POPESTIMATE2017": 3141550,
+        "POPESTIMATE2018": 3148618,
+        "POPESTIMATE2019": 3155070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.484246, 39.011902]
+      },
+      "properties": {
+        "NAME": "Kansas",
+        "POPESTIMATE2010": 2858190,
+        "POPESTIMATE2011": 2869225,
+        "POPESTIMATE2012": 2885257,
+        "POPESTIMATE2013": 2893212,
+        "POPESTIMATE2014": 2900475,
+        "POPESTIMATE2015": 2909011,
+        "POPESTIMATE2016": 2910844,
+        "POPESTIMATE2017": 2908718,
+        "POPESTIMATE2018": 2911359,
+        "POPESTIMATE2019": 2913314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.270018, 37.839333]
+      },
+      "properties": {
+        "NAME": "Kentucky",
+        "POPESTIMATE2010": 4348181,
+        "POPESTIMATE2011": 4369821,
+        "POPESTIMATE2012": 4386346,
+        "POPESTIMATE2013": 4404659,
+        "POPESTIMATE2014": 4414349,
+        "POPESTIMATE2015": 4425976,
+        "POPESTIMATE2016": 4438182,
+        "POPESTIMATE2017": 4452268,
+        "POPESTIMATE2018": 4461153,
+        "POPESTIMATE2019": 4467673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.145024, 31.244823]
+      },
+      "properties": {
+        "NAME": "Louisiana",
+        "POPESTIMATE2010": 4544532,
+        "POPESTIMATE2011": 4575625,
+        "POPESTIMATE2012": 4600972,
+        "POPESTIMATE2013": 4624527,
+        "POPESTIMATE2014": 4644013,
+        "POPESTIMATE2015": 4664628,
+        "POPESTIMATE2016": 4678135,
+        "POPESTIMATE2017": 4670560,
+        "POPESTIMATE2018": 4659690,
+        "POPESTIMATE2019": 4648794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.445469, 45.253783]
+      },
+      "properties": {
+        "NAME": "Maine",
+        "POPESTIMATE2010": 1327629,
+        "POPESTIMATE2011": 1328284,
+        "POPESTIMATE2012": 1327729,
+        "POPESTIMATE2013": 1328009,
+        "POPESTIMATE2014": 1330513,
+        "POPESTIMATE2015": 1328262,
+        "POPESTIMATE2016": 1331317,
+        "POPESTIMATE2017": 1334612,
+        "POPESTIMATE2018": 1339057,
+        "POPESTIMATE2019": 1344212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.641271, 39.045755]
+      },
+      "properties": {
+        "NAME": "Maryland",
+        "POPESTIMATE2010": 5788645,
+        "POPESTIMATE2011": 5839419,
+        "POPESTIMATE2012": 5886992,
+        "POPESTIMATE2013": 5923188,
+        "POPESTIMATE2014": 5957283,
+        "POPESTIMATE2015": 5985562,
+        "POPESTIMATE2016": 6003323,
+        "POPESTIMATE2017": 6023868,
+        "POPESTIMATE2018": 6035802,
+        "POPESTIMATE2019": 6045680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.382437, 42.407211]
+      },
+      "properties": {
+        "NAME": "Massachusetts",
+        "POPESTIMATE2010": 6566307,
+        "POPESTIMATE2011": 6613583,
+        "POPESTIMATE2012": 6663005,
+        "POPESTIMATE2013": 6713315,
+        "POPESTIMATE2014": 6762596,
+        "POPESTIMATE2015": 6794228,
+        "POPESTIMATE2016": 6823608,
+        "POPESTIMATE2017": 6859789,
+        "POPESTIMATE2018": 6882635,
+        "POPESTIMATE2019": 6892503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.602364, 44.314844]
+      },
+      "properties": {
+        "NAME": "Michigan",
+        "POPESTIMATE2010": 9877510,
+        "POPESTIMATE2011": 9882412,
+        "POPESTIMATE2012": 9897145,
+        "POPESTIMATE2013": 9913065,
+        "POPESTIMATE2014": 9929848,
+        "POPESTIMATE2015": 9931715,
+        "POPESTIMATE2016": 9950571,
+        "POPESTIMATE2017": 9973114,
+        "POPESTIMATE2018": 9984072,
+        "POPESTIMATE2019": 9986857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.6859, 46.729553]
+      },
+      "properties": {
+        "NAME": "Minnesota",
+        "POPESTIMATE2010": 5310828,
+        "POPESTIMATE2011": 5346143,
+        "POPESTIMATE2012": 5376643,
+        "POPESTIMATE2013": 5413479,
+        "POPESTIMATE2014": 5451079,
+        "POPESTIMATE2015": 5482032,
+        "POPESTIMATE2016": 5522744,
+        "POPESTIMATE2017": 5566230,
+        "POPESTIMATE2018": 5606249,
+        "POPESTIMATE2019": 5639632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.398528, 32.354668]
+      },
+      "properties": {
+        "NAME": "Mississippi",
+        "POPESTIMATE2010": 2970548,
+        "POPESTIMATE2011": 2978731,
+        "POPESTIMATE2012": 2983816,
+        "POPESTIMATE2013": 2988711,
+        "POPESTIMATE2014": 2990468,
+        "POPESTIMATE2015": 2988471,
+        "POPESTIMATE2016": 2987938,
+        "POPESTIMATE2017": 2988510,
+        "POPESTIMATE2018": 2981020,
+        "POPESTIMATE2019": 2976149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.831833, 37.964253]
+      },
+      "properties": {
+        "NAME": "Missouri",
+        "POPESTIMATE2010": 5995974,
+        "POPESTIMATE2011": 6010275,
+        "POPESTIMATE2012": 6024367,
+        "POPESTIMATE2013": 6040715,
+        "POPESTIMATE2014": 6056202,
+        "POPESTIMATE2015": 6071732,
+        "POPESTIMATE2016": 6087135,
+        "POPESTIMATE2017": 6106670,
+        "POPESTIMATE2018": 6121623,
+        "POPESTIMATE2019": 6137428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.362566, 46.879682]
+      },
+      "properties": {
+        "NAME": "Montana",
+        "POPESTIMATE2010": 990697,
+        "POPESTIMATE2011": 997316,
+        "POPESTIMATE2012": 1003783,
+        "POPESTIMATE2013": 1013569,
+        "POPESTIMATE2014": 1021869,
+        "POPESTIMATE2015": 1030475,
+        "POPESTIMATE2016": 1040859,
+        "POPESTIMATE2017": 1052482,
+        "POPESTIMATE2018": 1060665,
+        "POPESTIMATE2019": 1068778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.901813, 41.492537]
+      },
+      "properties": {
+        "NAME": "Nebraska",
+        "POPESTIMATE2010": 1829542,
+        "POPESTIMATE2011": 1840672,
+        "POPESTIMATE2012": 1853303,
+        "POPESTIMATE2013": 1865279,
+        "POPESTIMATE2014": 1879321,
+        "POPESTIMATE2015": 1891277,
+        "POPESTIMATE2016": 1905616,
+        "POPESTIMATE2017": 1915947,
+        "POPESTIMATE2018": 1925614,
+        "POPESTIMATE2019": 1934408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.419389, 38.80261]
+      },
+      "properties": {
+        "NAME": "Nevada",
+        "POPESTIMATE2010": 2702405,
+        "POPESTIMATE2011": 2712730,
+        "POPESTIMATE2012": 2743996,
+        "POPESTIMATE2013": 2775970,
+        "POPESTIMATE2014": 2817628,
+        "POPESTIMATE2015": 2866939,
+        "POPESTIMATE2016": 2917563,
+        "POPESTIMATE2017": 2969905,
+        "POPESTIMATE2018": 3027341,
+        "POPESTIMATE2019": 3080156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.572395, 43.193852]
+      },
+      "properties": {
+        "NAME": "New Hampshire",
+        "POPESTIMATE2010": 1316762,
+        "POPESTIMATE2011": 1320202,
+        "POPESTIMATE2012": 1324232,
+        "POPESTIMATE2013": 1326622,
+        "POPESTIMATE2014": 1333341,
+        "POPESTIMATE2015": 1336350,
+        "POPESTIMATE2016": 1342307,
+        "POPESTIMATE2017": 1348787,
+        "POPESTIMATE2018": 1353465,
+        "POPESTIMATE2019": 1359711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.405661, 40.058324]
+      },
+      "properties": {
+        "NAME": "New Jersey",
+        "POPESTIMATE2010": 8799446,
+        "POPESTIMATE2011": 8828117,
+        "POPESTIMATE2012": 8844942,
+        "POPESTIMATE2013": 8856972,
+        "POPESTIMATE2014": 8864525,
+        "POPESTIMATE2015": 8867949,
+        "POPESTIMATE2016": 8870827,
+        "POPESTIMATE2017": 8885525,
+        "POPESTIMATE2018": 8886025,
+        "POPESTIMATE2019": 8882190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.032363, 34.97273]
+      },
+      "properties": {
+        "NAME": "New Mexico",
+        "POPESTIMATE2010": 2064552,
+        "POPESTIMATE2011": 2080450,
+        "POPESTIMATE2012": 2087309,
+        "POPESTIMATE2013": 2092273,
+        "POPESTIMATE2014": 2089568,
+        "POPESTIMATE2015": 2089291,
+        "POPESTIMATE2016": 2091630,
+        "POPESTIMATE2017": 2091784,
+        "POPESTIMATE2018": 2092741,
+        "POPESTIMATE2019": 2096829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.217933, 43.299428]
+      },
+      "properties": {
+        "NAME": "New York",
+        "POPESTIMATE2010": 19399878,
+        "POPESTIMATE2011": 19499241,
+        "POPESTIMATE2012": 19572932,
+        "POPESTIMATE2013": 19624447,
+        "POPESTIMATE2014": 19651049,
+        "POPESTIMATE2015": 19654666,
+        "POPESTIMATE2016": 19633428,
+        "POPESTIMATE2017": 19589572,
+        "POPESTIMATE2018": 19530351,
+        "POPESTIMATE2019": 19453561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0193, 35.759573]
+      },
+      "properties": {
+        "NAME": "North Carolina",
+        "POPESTIMATE2010": 9574323,
+        "POPESTIMATE2011": 9657592,
+        "POPESTIMATE2012": 9749476,
+        "POPESTIMATE2013": 9843336,
+        "POPESTIMATE2014": 9932887,
+        "POPESTIMATE2015": 10031646,
+        "POPESTIMATE2016": 10154788,
+        "POPESTIMATE2017": 10268233,
+        "POPESTIMATE2018": 10381615,
+        "POPESTIMATE2019": 10488084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.002012, 47.551493]
+      },
+      "properties": {
+        "NAME": "North Dakota",
+        "POPESTIMATE2010": 674715,
+        "POPESTIMATE2011": 685225,
+        "POPESTIMATE2012": 701176,
+        "POPESTIMATE2013": 722036,
+        "POPESTIMATE2014": 737401,
+        "POPESTIMATE2015": 754066,
+        "POPESTIMATE2016": 754434,
+        "POPESTIMATE2017": 754942,
+        "POPESTIMATE2018": 758080,
+        "POPESTIMATE2019": 762062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.907123, 40.417287]
+      },
+      "properties": {
+        "NAME": "Ohio",
+        "POPESTIMATE2010": 11539336,
+        "POPESTIMATE2011": 11544663,
+        "POPESTIMATE2012": 11548923,
+        "POPESTIMATE2013": 11576684,
+        "POPESTIMATE2014": 11602700,
+        "POPESTIMATE2015": 11617527,
+        "POPESTIMATE2016": 11634370,
+        "POPESTIMATE2017": 11659650,
+        "POPESTIMATE2018": 11676341,
+        "POPESTIMATE2019": 11689100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.092877, 35.007752]
+      },
+      "properties": {
+        "NAME": "Oklahoma",
+        "POPESTIMATE2010": 3759944,
+        "POPESTIMATE2011": 3788379,
+        "POPESTIMATE2012": 3818814,
+        "POPESTIMATE2013": 3853214,
+        "POPESTIMATE2014": 3878187,
+        "POPESTIMATE2015": 3909500,
+        "POPESTIMATE2016": 3926331,
+        "POPESTIMATE2017": 3931316,
+        "POPESTIMATE2018": 3940235,
+        "POPESTIMATE2019": 3956971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.554201, 43.804133]
+      },
+      "properties": {
+        "NAME": "Oregon",
+        "POPESTIMATE2010": 3837491,
+        "POPESTIMATE2011": 3872036,
+        "POPESTIMATE2012": 3899001,
+        "POPESTIMATE2013": 3922468,
+        "POPESTIMATE2014": 3963244,
+        "POPESTIMATE2015": 4015792,
+        "POPESTIMATE2016": 4089976,
+        "POPESTIMATE2017": 4143625,
+        "POPESTIMATE2018": 4181886,
+        "POPESTIMATE2019": 4217737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.194525, 41.203322]
+      },
+      "properties": {
+        "NAME": "Pennsylvania",
+        "POPESTIMATE2010": 12711160,
+        "POPESTIMATE2011": 12745815,
+        "POPESTIMATE2012": 12767118,
+        "POPESTIMATE2013": 12776309,
+        "POPESTIMATE2014": 12788313,
+        "POPESTIMATE2015": 12784826,
+        "POPESTIMATE2016": 12782275,
+        "POPESTIMATE2017": 12787641,
+        "POPESTIMATE2018": 12800922,
+        "POPESTIMATE2019": 12801989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.477429, 41.580095]
+      },
+      "properties": {
+        "NAME": "Rhode Island",
+        "POPESTIMATE2010": 1053959,
+        "POPESTIMATE2011": 1053649,
+        "POPESTIMATE2012": 1054621,
+        "POPESTIMATE2013": 1055081,
+        "POPESTIMATE2014": 1055936,
+        "POPESTIMATE2015": 1056065,
+        "POPESTIMATE2016": 1056770,
+        "POPESTIMATE2017": 1055673,
+        "POPESTIMATE2018": 1058287,
+        "POPESTIMATE2019": 1059361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.163725, 33.836081]
+      },
+      "properties": {
+        "NAME": "South Carolina",
+        "POPESTIMATE2010": 4635649,
+        "POPESTIMATE2011": 4671994,
+        "POPESTIMATE2012": 4717354,
+        "POPESTIMATE2013": 4764080,
+        "POPESTIMATE2014": 4823617,
+        "POPESTIMATE2015": 4891938,
+        "POPESTIMATE2016": 4957968,
+        "POPESTIMATE2017": 5021268,
+        "POPESTIMATE2018": 5084156,
+        "POPESTIMATE2019": 5148714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.901813, 43.969515]
+      },
+      "properties": {
+        "NAME": "South Dakota",
+        "POPESTIMATE2010": 816166,
+        "POPESTIMATE2011": 823579,
+        "POPESTIMATE2012": 833566,
+        "POPESTIMATE2013": 842316,
+        "POPESTIMATE2014": 849129,
+        "POPESTIMATE2015": 853988,
+        "POPESTIMATE2016": 862996,
+        "POPESTIMATE2017": 872868,
+        "POPESTIMATE2018": 878698,
+        "POPESTIMATE2019": 884659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.580447, 35.517491]
+      },
+      "properties": {
+        "NAME": "Tennessee",
+        "POPESTIMATE2010": 6355311,
+        "POPESTIMATE2011": 6399291,
+        "POPESTIMATE2012": 6453898,
+        "POPESTIMATE2013": 6494340,
+        "POPESTIMATE2014": 6541223,
+        "POPESTIMATE2015": 6591170,
+        "POPESTIMATE2016": 6646010,
+        "POPESTIMATE2017": 6708799,
+        "POPESTIMATE2018": 6771631,
+        "POPESTIMATE2019": 6829174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.901813, 31.968599]
+      },
+      "properties": {
+        "NAME": "Texas",
+        "POPESTIMATE2010": 25241971,
+        "POPESTIMATE2011": 25645629,
+        "POPESTIMATE2012": 26084481,
+        "POPESTIMATE2013": 26480266,
+        "POPESTIMATE2014": 26964333,
+        "POPESTIMATE2015": 27470056,
+        "POPESTIMATE2016": 27914410,
+        "POPESTIMATE2017": 28295273,
+        "POPESTIMATE2018": 28628666,
+        "POPESTIMATE2019": 28995881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.093731, 39.32098]
+      },
+      "properties": {
+        "NAME": "Utah",
+        "POPESTIMATE2010": 2775332,
+        "POPESTIMATE2011": 2814384,
+        "POPESTIMATE2012": 2853375,
+        "POPESTIMATE2013": 2897640,
+        "POPESTIMATE2014": 2936879,
+        "POPESTIMATE2015": 2981835,
+        "POPESTIMATE2016": 3041868,
+        "POPESTIMATE2017": 3101042,
+        "POPESTIMATE2018": 3153550,
+        "POPESTIMATE2019": 3205958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.577841, 44.558803]
+      },
+      "properties": {
+        "NAME": "Vermont",
+        "POPESTIMATE2010": 625879,
+        "POPESTIMATE2011": 627049,
+        "POPESTIMATE2012": 626090,
+        "POPESTIMATE2013": 626210,
+        "POPESTIMATE2014": 625214,
+        "POPESTIMATE2015": 625216,
+        "POPESTIMATE2016": 623657,
+        "POPESTIMATE2017": 624344,
+        "POPESTIMATE2018": 624358,
+        "POPESTIMATE2019": 623989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.656894, 37.431573]
+      },
+      "properties": {
+        "NAME": "Virginia",
+        "POPESTIMATE2010": 8023699,
+        "POPESTIMATE2011": 8101155,
+        "POPESTIMATE2012": 8185080,
+        "POPESTIMATE2013": 8252427,
+        "POPESTIMATE2014": 8310993,
+        "POPESTIMATE2015": 8361808,
+        "POPESTIMATE2016": 8410106,
+        "POPESTIMATE2017": 8463587,
+        "POPESTIMATE2018": 8501286,
+        "POPESTIMATE2019": 8535519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.740139, 47.751074]
+      },
+      "properties": {
+        "NAME": "Washington",
+        "POPESTIMATE2010": 6742830,
+        "POPESTIMATE2011": 6826627,
+        "POPESTIMATE2012": 6897058,
+        "POPESTIMATE2013": 6963985,
+        "POPESTIMATE2014": 7054655,
+        "POPESTIMATE2015": 7163657,
+        "POPESTIMATE2016": 7294771,
+        "POPESTIMATE2017": 7423362,
+        "POPESTIMATE2018": 7523869,
+        "POPESTIMATE2019": 7614893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.454903, 38.597626]
+      },
+      "properties": {
+        "NAME": "West Virginia",
+        "POPESTIMATE2010": 1854239,
+        "POPESTIMATE2011": 1856301,
+        "POPESTIMATE2012": 1856872,
+        "POPESTIMATE2013": 1853914,
+        "POPESTIMATE2014": 1849489,
+        "POPESTIMATE2015": 1842050,
+        "POPESTIMATE2016": 1831023,
+        "POPESTIMATE2017": 1817004,
+        "POPESTIMATE2018": 1804291,
+        "POPESTIMATE2019": 1792147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.787868, 43.78444]
+      },
+      "properties": {
+        "NAME": "Wisconsin",
+        "POPESTIMATE2010": 5690475,
+        "POPESTIMATE2011": 5705288,
+        "POPESTIMATE2012": 5719960,
+        "POPESTIMATE2013": 5736754,
+        "POPESTIMATE2014": 5751525,
+        "POPESTIMATE2015": 5760940,
+        "POPESTIMATE2016": 5772628,
+        "POPESTIMATE2017": 5790186,
+        "POPESTIMATE2018": 5807406,
+        "POPESTIMATE2019": 5822434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.290284, 43.075968]
+      },
+      "properties": {
+        "NAME": "Wyoming",
+        "POPESTIMATE2010": 564487,
+        "POPESTIMATE2011": 567299,
+        "POPESTIMATE2012": 576305,
+        "POPESTIMATE2013": 582122,
+        "POPESTIMATE2014": 582531,
+        "POPESTIMATE2015": 585613,
+        "POPESTIMATE2016": 584215,
+        "POPESTIMATE2017": 578931,
+        "POPESTIMATE2018": 577601,
+        "POPESTIMATE2019": 578759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.590149, 18.220833]
+      },
+      "properties": {
+        "NAME": "Puerto Rico",
+        "POPESTIMATE2010": 3721525,
+        "POPESTIMATE2011": 3678732,
+        "POPESTIMATE2012": 3634488,
+        "POPESTIMATE2013": 3593077,
+        "POPESTIMATE2014": 3534874,
+        "POPESTIMATE2015": 3473232,
+        "POPESTIMATE2016": 3406672,
+        "POPESTIMATE2017": 3325286,
+        "POPESTIMATE2018": 3193354,
+        "POPESTIMATE2019": 3193694
+      }
+    }
+  ]
+}
